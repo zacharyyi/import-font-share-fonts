@@ -1,3 +1,7 @@
+@import url(ranade.css)
+
 body {
     background: #44d25e;
+    font-family: 'Ranade-Regular';
+    font-size: 5rem; 
 }
